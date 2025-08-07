@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/HAlafeefi/Openwarmer/raw/refs/heads/master/static/img/logo.svg" height="150">
+<img src="logo.png" height="150">
 </p>
 <h1 align="center">
 Openwarmer
